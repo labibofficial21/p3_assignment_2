@@ -1,0 +1,19 @@
+body{
+    background-color: lightgrey!important;
+}
+
+.text-center h2{
+    margin-top:15px;
+}
+
+.navbar-custom{
+    background-color: #ff7b25!important;
+    margin-left:150px;
+    margin-right: 350px;
+}
+
+.margin-size{
+    background-color: white!important;
+    margin-left:150px;
+    margin-right: 350px;
+}
